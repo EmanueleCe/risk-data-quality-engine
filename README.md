@@ -6,12 +6,8 @@ The workflow starts from data preparation, where market data is cleaned and enri
 
 The validation and outlier analysis are performed on the main market dataset. The completeness heatmap shown below is based on a controlled dataset where data quality issues were intentionally introduced to better illustrate the behaviour of the checks.
 
-## Example Output
-
-### Completeness Overview
+## Completeness Overview
 
 ![Completeness Heatmap](images/completeness_heatmap.png)
 
 This project is not intended as a quantitative pricing or forecasting model. It is a practical example of how data quality can be monitored, summarized, and presented in a structured way within a risk or market data environment.
-
-*Note: the completeness values shown in the heatmap are based on a controlled dataset where data quality issues were intentionally introduced to simulate realistic scenarios.*
