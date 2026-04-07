@@ -4,7 +4,7 @@
 
 ![Completeness Heatmap](images/completeness_heatmap.png)
 
-This project presents a simple data quality monitoring framework built on multi-asset market data, with a practical focus on risk / market data monitoring rather than pure modelling.
+This project presents a data quality monitoring framework built on multi-asset market data, with a practical focus on risk / market data monitoring rather than pure modelling.
 
 The main idea behind the project is straightforward: before computing any risk metric (VaR, stress testing, etc.), the first step should always be to assess whether the input data is reliable enough.
 
